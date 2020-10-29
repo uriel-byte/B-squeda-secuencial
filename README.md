@@ -10,6 +10,8 @@ Métodos de búsqueda
 
 ![Captura de pantalla (400) png](https://user-images.githubusercontent.com/71051834/97539162-1e9fca80-1987-11eb-9478-92714d23358b.jpg)
 
+qui estan algunas capturas de pantalla mostrando que el programa si funciona.
+
 ![Captura de pantalla (401) png](https://user-images.githubusercontent.com/71051834/97539177-22cbe800-1987-11eb-908b-7758b179cc04.jpg)
 
 ![Captura de pantalla (402) png](https://user-images.githubusercontent.com/71051834/97539176-22cbe800-1987-11eb-98b6-a2872d587451.jpg)
