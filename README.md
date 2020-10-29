@@ -1,2 +1,2 @@
-# B-squeda-secuencial
+# Busqueda-secuencial
 Métodos de búsqueda
