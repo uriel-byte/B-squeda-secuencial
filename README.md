@@ -16,6 +16,7 @@ en esta segunda captura las funciones que se utilizaron para el programa, para l
 
 aqui estan algunas capturas de pantalla mostrando que el programa si funciona.
 
+primero nos pide asignar un valor para la dimension de nuestro vector, despues de eso nos pide ingresar los datos del vector en este caso son numeros esto depende de la dimesion que le dimos a nuestro vector y cuando se fianliza de ingresar los dato del vector el programa pide que ingresemos un datos de los que ingresamos anteriormente para buscarlo y asi nos diga en que posicion esta cabe aclarar que comienza a  buscar desde cero es como si el cero fuera el uno y asi se sigue y fin..  
 ![Captura de pantalla (401) png](https://user-images.githubusercontent.com/71051834/97539177-22cbe800-1987-11eb-908b-7758b179cc04.jpg)
 
 ![Captura de pantalla (402) png](https://user-images.githubusercontent.com/71051834/97539176-22cbe800-1987-11eb-98b6-a2872d587451.jpg)
